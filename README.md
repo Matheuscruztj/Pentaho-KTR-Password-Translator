@@ -1,4 +1,4 @@
-# Pentaho-KTR-Password-Translator
+# Pentaho KTR Password Translator
  Easy Java App to Encode/Decode Password
 
 ## Screen:
